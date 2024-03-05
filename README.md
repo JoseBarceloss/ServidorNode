@@ -44,6 +44,16 @@ Este é o meu primeiro exercício prático de criação de um servidor Node.js! 
 
 ---
 
-## Aviso
+![GIF2](https://i.pinimg.com/originals/aa/48/46/aa4846d84035bb97903a10edfe0f22e9.gif)
 
-Caso a porta 3002 esteja ocupada por algum aplicativo, você pode modificar a constante `port` no arquivo `src/app.js` para uma porta disponível.
+## ⚠️ Aviso
+
+Caso a porta 3002 esteja ocupada por algum aplicativo, você pode modificar a constante `port` no arquivo `src/server.js` para uma porta disponível.
+
+Observação: Geralmente, meus repositórios de exercícios no GitHub têm o prefixo "EX" antes do nome. No entanto, neste projeto, optei por não incluir esse prefixo para facilitar a visualização e identificação dos avaliadores.
+
+Por fim, considero este conteúdo de extrema importância para quem está iniciando no desenvolvimento back-end, pois oferece uma base sólida para compreender como criar e interagir com um servidor, além de explorar conceitos fundamentais para o desenvolvimento de APIs e aplicativos web.
+
+---
+
+Agradeço pela oportunidade de compartilhar este exercise e espero que tenham gostado!
