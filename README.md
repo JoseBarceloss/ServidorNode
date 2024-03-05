@@ -29,8 +29,6 @@ Este é o meu primeiro exercício prático de criação de um servidor Node.js! 
 
 4. **Testando as Rotas:** Utilize a extensão Thunder Client no Visual Studio Code para enviar solicitações HTTP para as rotas disponíveis e visualizar as respostas.
 
----
-
 ## Funcionalidades Implementadas
 
 - **GET /:** Rota principal que retorna uma mensagem de boas-vindas.
