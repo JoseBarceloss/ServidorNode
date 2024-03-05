@@ -43,9 +43,6 @@ Este é o meu primeiro exercício prático de criação de um servidor Node.js! 
 - **DELETE /teams/:id:** Rota para excluir uma equipe com base no ID.
 
 ---
-
-![GIF2](https://i.pinimg.com/originals/aa/48/46/aa4846d84035bb97903a10edfe0f22e9.gif)
-
 ## ⚠️ Aviso
 
 Caso a porta 3002 esteja ocupada por algum aplicativo, você pode modificar a constante `port` no arquivo `src/server.js` para uma porta disponível.
@@ -56,4 +53,8 @@ Por fim, considero este conteúdo de extrema importância para quem está inicia
 
 ---
 
-Agradeço pela oportunidade de compartilhar este exercise e espero que tenham gostado!
+<div align="center">
+  <p>🚀 Agradeço pela oportunidade de compartilhar este exercício! Espero que tenham gostado! 🚀</p>
+  <img src="https://i.pinimg.com/originals/aa/48/46/aa4846d84035bb97903a10edfe0f22e9.gif" alt="GIF2" style="max-width: 250px;">
+</div>
+
